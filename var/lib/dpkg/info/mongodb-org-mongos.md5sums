@@ -1,0 +1,5 @@
+448a21623373bef44644503313fb4cfd  usr/bin/mongos
+c11c3502811efa81c152d57d6399a48a  usr/share/doc/mongodb-org-mongos/changelog.gz
+440e8ada9d92d93ef6d301c888cb9e05  usr/share/doc/mongodb-org-mongos/copyright
+f08c3039af34771ddd0976cc2b774ee3  usr/share/lintian/overrides/mongodb-org-mongos
+19d36a43a4305b0a325d39f6dc7db242  usr/share/man/man1/mongos.1.gz

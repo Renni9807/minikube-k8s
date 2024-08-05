@@ -1,0 +1,530 @@
+
+Start-Date: 2024-06-27  14:08:24
+Commandline: apt-get install --reinstall adduser
+Reinstall: adduser:arm64 (3.118ubuntu5)
+End-Date: 2024-06-27  14:08:25
+
+Start-Date: 2024-06-27  14:08:28
+Commandline: apt-get install --reinstall apt
+Reinstall: apt:arm64 (2.4.5)
+End-Date: 2024-06-27  14:08:30
+
+Start-Date: 2024-06-27  14:08:32
+Commandline: apt-get install --reinstall base-files
+Reinstall: base-files:arm64 (12ubuntu4)
+End-Date: 2024-06-27  14:08:33
+
+Start-Date: 2024-06-27  14:08:35
+Commandline: apt-get install --reinstall base-passwd
+Reinstall: base-passwd:arm64 (3.5.52build1)
+End-Date: 2024-06-27  14:08:36
+
+Start-Date: 2024-06-27  14:08:39
+Commandline: apt-get install --reinstall bash
+Reinstall: bash:arm64 (5.1-6ubuntu1)
+End-Date: 2024-06-27  14:08:40
+
+Start-Date: 2024-06-27  14:08:42
+Commandline: apt-get install --reinstall bsdutils
+Reinstall: bsdutils:arm64 (1:2.37.2-4ubuntu3)
+End-Date: 2024-06-27  14:08:43
+
+Start-Date: 2024-06-27  14:08:47
+Commandline: apt-get install --reinstall coreutils
+Reinstall: coreutils:arm64 (8.32-4.1ubuntu1)
+End-Date: 2024-06-27  14:08:48
+
+Start-Date: 2024-06-27  14:08:50
+Commandline: apt-get install --reinstall dash
+Reinstall: dash:arm64 (0.5.11+git20210903+057cd650a4ed-3build1)
+End-Date: 2024-06-27  14:08:51
+
+Start-Date: 2024-06-27  14:08:53
+Commandline: apt-get install --reinstall debconf
+Reinstall: debconf:arm64 (1.5.79ubuntu1)
+End-Date: 2024-06-27  14:08:55
+
+Start-Date: 2024-06-27  14:08:57
+Commandline: apt-get install --reinstall debianutils
+Reinstall: debianutils:arm64 (5.5-1ubuntu2)
+End-Date: 2024-06-27  14:08:58
+
+Start-Date: 2024-06-27  14:09:01
+Commandline: apt-get install --reinstall diffutils
+Reinstall: diffutils:arm64 (1:3.8-0ubuntu2)
+End-Date: 2024-06-27  14:09:02
+
+Start-Date: 2024-06-27  14:09:06
+Commandline: apt-get install --reinstall dpkg
+Reinstall: dpkg:arm64 (1.21.1ubuntu2)
+End-Date: 2024-06-27  14:09:07
+
+Start-Date: 2024-06-27  14:09:10
+Commandline: apt-get install --reinstall e2fsprogs
+Reinstall: e2fsprogs:arm64 (1.46.5-2ubuntu1)
+End-Date: 2024-06-27  14:09:11
+
+Start-Date: 2024-06-27  14:09:14
+Commandline: apt-get install --reinstall findutils
+Reinstall: findutils:arm64 (4.8.0-1ubuntu3)
+End-Date: 2024-06-27  14:09:15
+
+Start-Date: 2024-06-27  14:09:16
+Commandline: apt-get install --reinstall gcc-12-base:arm64
+Reinstall: gcc-12-base:arm64 (12-20220319-1ubuntu1)
+End-Date: 2024-06-27  14:09:17
+
+Start-Date: 2024-06-27  14:09:20
+Commandline: apt-get install --reinstall gpgv
+Reinstall: gpgv:arm64 (2.2.27-3ubuntu2)
+End-Date: 2024-06-27  14:09:21
+
+Start-Date: 2024-06-27  14:09:23
+Commandline: apt-get install --reinstall grep
+Reinstall: grep:arm64 (3.7-1build1)
+End-Date: 2024-06-27  14:09:24
+
+Start-Date: 2024-06-27  14:09:26
+Commandline: apt-get install --reinstall gzip
+Reinstall: gzip:arm64 (1.10-4ubuntu4)
+End-Date: 2024-06-27  14:09:27
+
+Start-Date: 2024-06-27  14:09:29
+Commandline: apt-get install --reinstall hostname
+Reinstall: hostname:arm64 (3.23ubuntu2)
+End-Date: 2024-06-27  14:09:30
+
+Start-Date: 2024-06-27  14:09:33
+Commandline: apt-get install --reinstall init-system-helpers
+Reinstall: init-system-helpers:arm64 (1.62)
+End-Date: 2024-06-27  14:09:33
+
+Start-Date: 2024-06-27  14:09:36
+Commandline: apt-get install --reinstall libacl1:arm64
+Reinstall: libacl1:arm64 (2.3.1-1)
+End-Date: 2024-06-27  14:09:37
+
+Start-Date: 2024-06-27  14:09:40
+Commandline: apt-get install --reinstall libapt-pkg6.0:arm64
+Reinstall: libapt-pkg6.0:arm64 (2.4.5)
+End-Date: 2024-06-27  14:09:41
+
+Start-Date: 2024-06-27  14:09:43
+Commandline: apt-get install --reinstall libattr1:arm64
+Reinstall: libattr1:arm64 (1:2.5.1-1build1)
+End-Date: 2024-06-27  14:09:44
+
+Start-Date: 2024-06-27  14:09:46
+Commandline: apt-get install --reinstall libaudit-common
+Reinstall: libaudit-common:arm64 (1:3.0.7-1build1)
+End-Date: 2024-06-27  14:09:47
+
+Start-Date: 2024-06-27  14:09:49
+Commandline: apt-get install --reinstall libaudit1:arm64
+Reinstall: libaudit1:arm64 (1:3.0.7-1build1)
+End-Date: 2024-06-27  14:09:50
+
+Start-Date: 2024-06-27  14:09:52
+Commandline: apt-get install --reinstall libblkid1:arm64
+Reinstall: libblkid1:arm64 (2.37.2-4ubuntu3)
+End-Date: 2024-06-27  14:09:53
+
+Start-Date: 2024-06-27  14:09:55
+Commandline: apt-get install --reinstall libbz2-1.0:arm64
+Reinstall: libbz2-1.0:arm64 (1.0.8-5build1)
+End-Date: 2024-06-27  14:09:56
+
+Start-Date: 2024-06-27  14:09:59
+Commandline: apt-get install --reinstall libc-bin
+Reinstall: libc-bin:arm64 (2.35-0ubuntu3)
+End-Date: 2024-06-27  14:10:00
+
+Start-Date: 2024-06-27  14:10:04
+Commandline: apt-get install --reinstall libc6:arm64
+Reinstall: libc6:arm64 (2.35-0ubuntu3)
+End-Date: 2024-06-27  14:10:07
+
+Start-Date: 2024-06-27  14:10:08
+Commandline: apt-get install --reinstall libcap-ng0:arm64
+Reinstall: libcap-ng0:arm64 (0.7.9-2.2build3)
+End-Date: 2024-06-27  14:10:10
+
+Start-Date: 2024-06-27  14:10:11
+Commandline: apt-get install --reinstall libcap2:arm64
+Reinstall: libcap2:arm64 (1:2.44-1build3)
+End-Date: 2024-06-27  14:10:12
+
+Start-Date: 2024-06-27  14:10:14
+Commandline: apt-get install --reinstall libcom-err2:arm64
+Reinstall: libcom-err2:arm64 (1.46.5-2ubuntu1)
+End-Date: 2024-06-27  14:10:15
+
+Start-Date: 2024-06-27  14:10:17
+Commandline: apt-get install --reinstall libcrypt1:arm64
+Reinstall: libcrypt1:arm64 (1:4.4.27-1)
+End-Date: 2024-06-27  14:10:18
+
+Start-Date: 2024-06-27  14:10:21
+Commandline: apt-get install --reinstall libdb5.3:arm64
+Reinstall: libdb5.3:arm64 (5.3.28+dfsg1-0.8ubuntu3)
+End-Date: 2024-06-27  14:10:22
+
+Start-Date: 2024-06-27  14:10:24
+Commandline: apt-get install --reinstall libdebconfclient0:arm64
+Reinstall: libdebconfclient0:arm64 (0.261ubuntu1)
+End-Date: 2024-06-27  14:10:25
+
+Start-Date: 2024-06-27  14:10:27
+Commandline: apt-get install --reinstall libext2fs2:arm64
+Reinstall: libext2fs2:arm64 (1.46.5-2ubuntu1)
+End-Date: 2024-06-27  14:10:28
+
+Start-Date: 2024-06-27  14:10:30
+Commandline: apt-get install --reinstall libffi8:arm64
+Reinstall: libffi8:arm64 (3.4.2-4)
+End-Date: 2024-06-27  14:10:31
+
+Start-Date: 2024-06-27  14:10:33
+Commandline: apt-get install --reinstall libgcc-s1:arm64
+Reinstall: libgcc-s1:arm64 (12-20220319-1ubuntu1)
+End-Date: 2024-06-27  14:10:34
+
+Start-Date: 2024-06-27  14:10:36
+Commandline: apt-get install --reinstall libgcrypt20:arm64
+Reinstall: libgcrypt20:arm64 (1.9.4-3ubuntu3)
+End-Date: 2024-06-27  14:10:37
+
+Start-Date: 2024-06-27  14:10:39
+Commandline: apt-get install --reinstall libgmp10:arm64
+Reinstall: libgmp10:arm64 (2:6.2.1+dfsg-3ubuntu1)
+End-Date: 2024-06-27  14:10:40
+
+Start-Date: 2024-06-27  14:10:43
+Commandline: apt-get install --reinstall libgnutls30:arm64
+Reinstall: libgnutls30:arm64 (3.7.3-4ubuntu1)
+End-Date: 2024-06-27  14:10:44
+
+Start-Date: 2024-06-27  14:10:46
+Commandline: apt-get install --reinstall libgpg-error0:arm64
+Reinstall: libgpg-error0:arm64 (1.43-3)
+End-Date: 2024-06-27  14:10:47
+
+Start-Date: 2024-06-27  14:10:49
+Commandline: apt-get install --reinstall libgssapi-krb5-2:arm64
+Reinstall: libgssapi-krb5-2:arm64 (1.19.2-2)
+End-Date: 2024-06-27  14:10:50
+
+Start-Date: 2024-06-27  14:10:53
+Commandline: apt-get install --reinstall libhogweed6:arm64
+Reinstall: libhogweed6:arm64 (3.7.3-1build2)
+End-Date: 2024-06-27  14:10:54
+
+Start-Date: 2024-06-27  14:10:56
+Commandline: apt-get install --reinstall libidn2-0:arm64
+Reinstall: libidn2-0:arm64 (2.3.2-2build1)
+End-Date: 2024-06-27  14:10:57
+
+Start-Date: 2024-06-27  14:10:59
+Commandline: apt-get install --reinstall libk5crypto3:arm64
+Reinstall: libk5crypto3:arm64 (1.19.2-2)
+End-Date: 2024-06-27  14:11:00
+
+Start-Date: 2024-06-27  14:11:02
+Commandline: apt-get install --reinstall libkeyutils1:arm64
+Reinstall: libkeyutils1:arm64 (1.6.1-2ubuntu3)
+End-Date: 2024-06-27  14:11:03
+
+Start-Date: 2024-06-27  14:11:06
+Commandline: apt-get install --reinstall libkrb5-3:arm64
+Reinstall: libkrb5-3:arm64 (1.19.2-2)
+End-Date: 2024-06-27  14:11:07
+
+Start-Date: 2024-06-27  14:11:09
+Commandline: apt-get install --reinstall libkrb5support0:arm64
+Reinstall: libkrb5support0:arm64 (1.19.2-2)
+End-Date: 2024-06-27  14:11:10
+
+Start-Date: 2024-06-27  14:11:12
+Commandline: apt-get install --reinstall liblz4-1:arm64
+Reinstall: liblz4-1:arm64 (1.9.3-2build2)
+End-Date: 2024-06-27  14:11:13
+
+Start-Date: 2024-06-27  14:11:15
+Commandline: apt-get install --reinstall liblzma5:arm64
+Reinstall: liblzma5:arm64 (5.2.5-2ubuntu1)
+End-Date: 2024-06-27  14:11:16
+
+Start-Date: 2024-06-27  14:11:18
+Commandline: apt-get install --reinstall libmount1:arm64
+Reinstall: libmount1:arm64 (2.37.2-4ubuntu3)
+End-Date: 2024-06-27  14:11:19
+
+Start-Date: 2024-06-27  14:11:21
+Commandline: apt-get install --reinstall libncurses6:arm64
+Reinstall: libncurses6:arm64 (6.3-2)
+End-Date: 2024-06-27  14:11:22
+
+Start-Date: 2024-06-27  14:11:25
+Commandline: apt-get install --reinstall libncursesw6:arm64
+Reinstall: libncursesw6:arm64 (6.3-2)
+End-Date: 2024-06-27  14:11:26
+
+Start-Date: 2024-06-27  14:11:28
+Commandline: apt-get install --reinstall libnettle8:arm64
+Reinstall: libnettle8:arm64 (3.7.3-1build2)
+End-Date: 2024-06-27  14:11:29
+
+Start-Date: 2024-06-27  14:11:31
+Commandline: apt-get install --reinstall libnsl2:arm64
+Reinstall: libnsl2:arm64 (1.3.0-2build2)
+End-Date: 2024-06-27  14:11:32
+
+Start-Date: 2024-06-27  14:11:34
+Commandline: apt-get install --reinstall libp11-kit0:arm64
+Reinstall: libp11-kit0:arm64 (0.24.0-6build1)
+End-Date: 2024-06-27  14:11:35
+
+Start-Date: 2024-06-27  14:11:37
+Commandline: apt-get install --reinstall libpam-modules:arm64
+Reinstall: libpam-modules:arm64 (1.4.0-11ubuntu2)
+End-Date: 2024-06-27  14:11:39
+
+Start-Date: 2024-06-27  14:11:41
+Commandline: apt-get install --reinstall libpam-modules-bin
+Reinstall: libpam-modules-bin:arm64 (1.4.0-11ubuntu2)
+End-Date: 2024-06-27  14:11:42
+
+Start-Date: 2024-06-27  14:11:44
+Commandline: apt-get install --reinstall libpam-runtime
+Reinstall: libpam-runtime:arm64 (1.4.0-11ubuntu2)
+End-Date: 2024-06-27  14:11:45
+
+Start-Date: 2024-06-27  14:11:48
+Commandline: apt-get install --reinstall libpam0g:arm64
+Reinstall: libpam0g:arm64 (1.4.0-11ubuntu2)
+End-Date: 2024-06-27  14:11:49
+
+Start-Date: 2024-06-27  14:11:51
+Commandline: apt-get install --reinstall libpcre2-8-0:arm64
+Reinstall: libpcre2-8-0:arm64 (10.39-3build1)
+End-Date: 2024-06-27  14:11:52
+
+Start-Date: 2024-06-27  14:11:54
+Commandline: apt-get install --reinstall libpcre3:arm64
+Reinstall: libpcre3:arm64 (2:8.39-13build5)
+End-Date: 2024-06-27  14:11:56
+
+Start-Date: 2024-06-27  14:11:58
+Commandline: apt-get install --reinstall libprocps8:arm64
+Reinstall: libprocps8:arm64 (2:3.3.17-6ubuntu2)
+End-Date: 2024-06-27  14:11:59
+
+Start-Date: 2024-06-27  14:12:01
+Commandline: apt-get install --reinstall libseccomp2:arm64
+Reinstall: libseccomp2:arm64 (2.5.3-2ubuntu2)
+End-Date: 2024-06-27  14:12:02
+
+Start-Date: 2024-06-27  14:12:04
+Commandline: apt-get install --reinstall libselinux1:arm64
+Reinstall: libselinux1:arm64 (3.3-1build2)
+End-Date: 2024-06-27  14:12:05
+
+Start-Date: 2024-06-27  14:12:07
+Commandline: apt-get install --reinstall libsemanage-common
+Reinstall: libsemanage-common:arm64 (3.3-1build2)
+End-Date: 2024-06-27  14:12:08
+
+Start-Date: 2024-06-27  14:12:11
+Commandline: apt-get install --reinstall libsemanage2:arm64
+Reinstall: libsemanage2:arm64 (3.3-1build2)
+End-Date: 2024-06-27  14:12:12
+
+Start-Date: 2024-06-27  14:12:15
+Commandline: apt-get install --reinstall libsepol2:arm64
+Reinstall: libsepol2:arm64 (3.3-1build1)
+End-Date: 2024-06-27  14:12:16
+
+Start-Date: 2024-06-27  14:12:18
+Commandline: apt-get install --reinstall libsmartcols1:arm64
+Reinstall: libsmartcols1:arm64 (2.37.2-4ubuntu3)
+End-Date: 2024-06-27  14:12:19
+
+Start-Date: 2024-06-27  14:12:22
+Commandline: apt-get install --reinstall libss2:arm64
+Reinstall: libss2:arm64 (1.46.5-2ubuntu1)
+End-Date: 2024-06-27  14:12:22
+
+Start-Date: 2024-06-27  14:12:26
+Commandline: apt-get install --reinstall libssl3:arm64
+Reinstall: libssl3:arm64 (3.0.2-0ubuntu1)
+End-Date: 2024-06-27  14:12:27
+
+Start-Date: 2024-06-27  14:12:30
+Commandline: apt-get install --reinstall libstdc++6:arm64
+Reinstall: libstdc++6:arm64 (12-20220319-1ubuntu1)
+End-Date: 2024-06-27  14:12:31
+
+Start-Date: 2024-06-27  14:12:34
+Commandline: apt-get install --reinstall libsystemd0:arm64
+Reinstall: libsystemd0:arm64 (249.11-0ubuntu3)
+End-Date: 2024-06-27  14:12:35
+
+Start-Date: 2024-06-27  14:12:37
+Commandline: apt-get install --reinstall libtasn1-6:arm64
+Reinstall: libtasn1-6:arm64 (4.18.0-4build1)
+End-Date: 2024-06-27  14:12:38
+
+Start-Date: 2024-06-27  14:12:40
+Commandline: apt-get install --reinstall libtinfo6:arm64
+Reinstall: libtinfo6:arm64 (6.3-2)
+End-Date: 2024-06-27  14:12:41
+
+Start-Date: 2024-06-27  14:12:43
+Commandline: apt-get install --reinstall libtirpc-common
+Reinstall: libtirpc-common:arm64 (1.3.2-2build1)
+End-Date: 2024-06-27  14:12:44
+
+Start-Date: 2024-06-27  14:12:46
+Commandline: apt-get install --reinstall libtirpc3:arm64
+Reinstall: libtirpc3:arm64 (1.3.2-2build1)
+End-Date: 2024-06-27  14:12:47
+
+Start-Date: 2024-06-27  14:12:49
+Commandline: apt-get install --reinstall libudev1:arm64
+Reinstall: libudev1:arm64 (249.11-0ubuntu3)
+End-Date: 2024-06-27  14:12:50
+
+Start-Date: 2024-06-27  14:12:53
+Commandline: apt-get install --reinstall libunistring2:arm64
+Reinstall: libunistring2:arm64 (1.0-1)
+End-Date: 2024-06-27  14:12:54
+
+Start-Date: 2024-06-27  14:12:56
+Commandline: apt-get install --reinstall libuuid1:arm64
+Reinstall: libuuid1:arm64 (2.37.2-4ubuntu3)
+End-Date: 2024-06-27  14:12:58
+
+Start-Date: 2024-06-27  14:13:00
+Commandline: apt-get install --reinstall libxxhash0:arm64
+Reinstall: libxxhash0:arm64 (0.8.1-1)
+End-Date: 2024-06-27  14:13:01
+
+Start-Date: 2024-06-27  14:13:03
+Commandline: apt-get install --reinstall libzstd1:arm64
+Reinstall: libzstd1:arm64 (1.4.8+dfsg-3build1)
+End-Date: 2024-06-27  14:13:05
+
+Start-Date: 2024-06-27  14:13:07
+Commandline: apt-get install --reinstall login
+Reinstall: login:arm64 (1:4.8.1-2ubuntu2)
+End-Date: 2024-06-27  14:13:08
+
+Start-Date: 2024-06-27  14:13:10
+Commandline: apt-get install --reinstall logsave
+Reinstall: logsave:arm64 (1.46.5-2ubuntu1)
+End-Date: 2024-06-27  14:13:11
+
+Start-Date: 2024-06-27  14:13:13
+Commandline: apt-get install --reinstall lsb-base
+Reinstall: lsb-base:arm64 (11.1.0ubuntu4)
+End-Date: 2024-06-27  14:13:14
+
+Start-Date: 2024-06-27  14:13:16
+Commandline: apt-get install --reinstall mawk
+Reinstall: mawk:arm64 (1.3.4.20200120-3)
+End-Date: 2024-06-27  14:13:17
+
+Start-Date: 2024-06-27  14:13:19
+Commandline: apt-get install --reinstall mount
+Reinstall: mount:arm64 (2.37.2-4ubuntu3)
+End-Date: 2024-06-27  14:13:20
+
+Start-Date: 2024-06-27  14:13:21
+Commandline: apt-get install --reinstall ncurses-base
+Reinstall: ncurses-base:arm64 (6.3-2)
+End-Date: 2024-06-27  14:13:22
+
+Start-Date: 2024-06-27  14:13:25
+Commandline: apt-get install --reinstall ncurses-bin
+Reinstall: ncurses-bin:arm64 (6.3-2)
+End-Date: 2024-06-27  14:13:26
+
+Start-Date: 2024-06-27  14:13:28
+Commandline: apt-get install --reinstall passwd
+Reinstall: passwd:arm64 (1:4.8.1-2ubuntu2)
+End-Date: 2024-06-27  14:13:30
+
+Start-Date: 2024-06-27  14:13:33
+Commandline: apt-get install --reinstall perl-base
+Reinstall: perl-base:arm64 (5.34.0-3ubuntu1)
+End-Date: 2024-06-27  14:13:35
+
+Start-Date: 2024-06-27  14:13:37
+Commandline: apt-get install --reinstall procps
+Reinstall: procps:arm64 (2:3.3.17-6ubuntu2)
+End-Date: 2024-06-27  14:13:38
+
+Start-Date: 2024-06-27  14:13:40
+Commandline: apt-get install --reinstall sed
+Reinstall: sed:arm64 (4.8-1ubuntu2)
+End-Date: 2024-06-27  14:13:41
+
+Start-Date: 2024-06-27  14:13:43
+Commandline: apt-get install --reinstall sensible-utils
+Reinstall: sensible-utils:arm64 (0.0.17)
+End-Date: 2024-06-27  14:13:44
+
+Start-Date: 2024-06-27  14:13:46
+Commandline: apt-get install --reinstall sysvinit-utils
+Reinstall: sysvinit-utils:arm64 (3.01-1ubuntu1)
+End-Date: 2024-06-27  14:13:47
+
+Start-Date: 2024-06-27  14:13:50
+Commandline: apt-get install --reinstall tar
+Reinstall: tar:arm64 (1.34+dfsg-1build3)
+End-Date: 2024-06-27  14:13:51
+
+Start-Date: 2024-06-27  14:13:53
+Commandline: apt-get install --reinstall ubuntu-keyring
+Reinstall: ubuntu-keyring:arm64 (2021.03.26)
+End-Date: 2024-06-27  14:13:54
+
+Start-Date: 2024-06-27  14:13:56
+Commandline: apt-get install --reinstall usrmerge
+Reinstall: usrmerge:arm64 (25ubuntu2)
+End-Date: 2024-06-27  14:13:57
+
+Start-Date: 2024-06-27  14:14:00
+Commandline: apt-get install --reinstall util-linux
+Reinstall: util-linux:arm64 (2.37.2-4ubuntu3)
+End-Date: 2024-06-27  14:14:01
+
+Start-Date: 2024-06-27  14:14:03
+Commandline: apt-get install --reinstall zlib1g:arm64
+Reinstall: zlib1g:arm64 (1:1.2.11.dfsg-2ubuntu9)
+End-Date: 2024-06-27  14:14:04
+
+Start-Date: 2024-06-27  14:14:17
+Commandline: apt-get --yes -oDebug::pkgDepCache::AutoInstall=yes --force-yes upgrade
+Upgrade: dpkg:arm64 (1.21.1ubuntu2, 1.21.1ubuntu2.3), libsmartcols1:arm64 (2.37.2-4ubuntu3, 2.37.2-4ubuntu3.4), libpam-runtime:arm64 (1.4.0-11ubuntu2, 1.4.0-11ubuntu2.4), coreutils:arm64 (8.32-4.1ubuntu1, 8.32-4.1ubuntu1.2), libext2fs2:arm64 (1.46.5-2ubuntu1, 1.46.5-2ubuntu1.1), libgssapi-krb5-2:arm64 (1.19.2-2, 1.19.2-2ubuntu0.3), apt:arm64 (2.4.5, 2.4.12), libtinfo6:arm64 (6.3-2, 6.3-2ubuntu0.1), libtirpc-common:arm64 (1.3.2-2build1, 1.3.2-2ubuntu0.1), libpcre3:arm64 (2:8.39-13build5, 2:8.39-13ubuntu0.22.04.1), tar:arm64 (1.34+dfsg-1build3, 1.34+dfsg-1ubuntu0.1.22.04.2), libapt-pkg6.0:arm64 (2.4.5, 2.4.12), libsystemd0:arm64 (249.11-0ubuntu3, 249.11-0ubuntu3.12), libmount1:arm64 (2.37.2-4ubuntu3, 2.37.2-4ubuntu3.4), libkrb5support0:arm64 (1.19.2-2, 1.19.2-2ubuntu0.3), util-linux:arm64 (2.37.2-4ubuntu3, 2.37.2-4ubuntu3.4), libudev1:arm64 (249.11-0ubuntu3, 249.11-0ubuntu3.12), libcom-err2:arm64 (1.46.5-2ubuntu1, 1.46.5-2ubuntu1.1), libcap2:arm64 (1:2.44-1build3, 1:2.44-1ubuntu0.22.04.1), libc6:arm64 (2.35-0ubuntu3, 2.35-0ubuntu3.8), libssl3:arm64 (3.0.2-0ubuntu1, 3.0.2-0ubuntu1.16), libkrb5-3:arm64 (1.19.2-2, 1.19.2-2ubuntu0.3), libpam-modules:arm64 (1.4.0-11ubuntu2, 1.4.0-11ubuntu2.4), libuuid1:arm64 (2.37.2-4ubuntu3, 2.37.2-4ubuntu3.4), gpgv:arm64 (2.2.27-3ubuntu2, 2.2.27-3ubuntu2.1), bash:arm64 (5.1-6ubuntu1, 5.1-6ubuntu1.1), base-files:arm64 (12ubuntu4, 12ubuntu4.6), libk5crypto3:arm64 (1.19.2-2, 1.19.2-2ubuntu0.3), ncurses-base:arm64 (6.3-2, 6.3-2ubuntu0.1), gzip:arm64 (1.10-4ubuntu4, 1.10-4ubuntu4.1), login:arm64 (1:4.8.1-2ubuntu2, 1:4.8.1-2ubuntu2.2), libprocps8:arm64 (2:3.3.17-6ubuntu2, 2:3.3.17-6ubuntu2.1), libpcre2-8-0:arm64 (10.39-3build1, 10.39-3ubuntu0.1), libpam-modules-bin:arm64 (1.4.0-11ubuntu2, 1.4.0-11ubuntu2.4), procps:arm64 (2:3.3.17-6ubuntu2, 2:3.3.17-6ubuntu2.1), mount:arm64 (2.37.2-4ubuntu3, 2.37.2-4ubuntu3.4), perl-base:arm64 (5.34.0-3ubuntu1, 5.34.0-3ubuntu1.3), libpam0g:arm64 (1.4.0-11ubuntu2, 1.4.0-11ubuntu2.4), libc-bin:arm64 (2.35-0ubuntu3, 2.35-0ubuntu3.8), libblkid1:arm64 (2.37.2-4ubuntu3, 2.37.2-4ubuntu3.4), libgnutls30:arm64 (3.7.3-4ubuntu1, 3.7.3-4ubuntu1.5), logsave:arm64 (1.46.5-2ubuntu1, 1.46.5-2ubuntu1.1), libncursesw6:arm64 (6.3-2, 6.3-2ubuntu0.1), ncurses-bin:arm64 (6.3-2, 6.3-2ubuntu0.1), zlib1g:arm64 (1:1.2.11.dfsg-2ubuntu9, 1:1.2.11.dfsg-2ubuntu9.2), gcc-12-base:arm64 (12-20220319-1ubuntu1, 12.3.0-1ubuntu1~22.04), libtirpc3:arm64 (1.3.2-2build1, 1.3.2-2ubuntu0.1), bsdutils:arm64 (1:2.37.2-4ubuntu3, 1:2.37.2-4ubuntu3.4), libss2:arm64 (1.46.5-2ubuntu1, 1.46.5-2ubuntu1.1), libstdc++6:arm64 (12-20220319-1ubuntu1, 12.3.0-1ubuntu1~22.04), libncurses6:arm64 (6.3-2, 6.3-2ubuntu0.1), e2fsprogs:arm64 (1.46.5-2ubuntu1, 1.46.5-2ubuntu1.1), passwd:arm64 (1:4.8.1-2ubuntu2, 1:4.8.1-2ubuntu2.2), libgcc-s1:arm64 (12-20220319-1ubuntu1, 12.3.0-1ubuntu1~22.04)
+End-Date: 2024-06-27  14:14:31
+
+Start-Date: 2024-07-02  15:50:29
+Commandline: apt-get install -y --no-install-recommends ca-certificates jq numactl procps
+Install: libonig5:arm64 (6.9.7.1-2build1, automatic), libnuma1:arm64 (2.0.14-3ubuntu2, automatic), numactl:arm64 (2.0.14-3ubuntu2), ca-certificates:arm64 (20230311ubuntu0.22.04.1), jq:arm64 (1.6-2.1ubuntu3), libjq1:arm64 (1.6-2.1ubuntu3, automatic), openssl:arm64 (3.0.2-0ubuntu1.16, automatic)
+End-Date: 2024-07-02  15:50:31
+
+Start-Date: 2024-07-02  15:52:00
+Commandline: apt-get install -y --no-install-recommends gnupg wget
+Install: readline-common:arm64 (8.1.2-1, automatic), gpg:arm64 (2.2.27-3ubuntu2.1, automatic), libsasl2-2:arm64 (2.1.27+dfsg2-3ubuntu1.2, automatic), gnupg:arm64 (2.2.27-3ubuntu2.1), libsasl2-modules-db:arm64 (2.1.27+dfsg2-3ubuntu1.2, automatic), gpg-wks-server:arm64 (2.2.27-3ubuntu2.1, automatic), libldap-2.5-0:arm64 (2.5.17+dfsg-0ubuntu0.22.04.1, automatic), gpg-agent:arm64 (2.2.27-3ubuntu2.1, automatic), wget:arm64 (1.21.2-2ubuntu1.1), libreadline8:arm64 (8.1.2-1, automatic), libassuan0:arm64 (2.5.5-1build1, automatic), libnpth0:arm64 (1.6-3build2, automatic), libsqlite3-0:arm64 (3.37.2-2ubuntu0.3, automatic), pinentry-curses:arm64 (1.1.1-1build2, automatic), gpgsm:arm64 (2.2.27-3ubuntu2.1, automatic), dirmngr:arm64 (2.2.27-3ubuntu2.1, automatic), libksba8:arm64 (1.6.0-2ubuntu0.2, automatic), gnupg-utils:arm64 (2.2.27-3ubuntu2.1, automatic), gnupg-l10n:arm64 (2.2.27-3ubuntu2.1, automatic), gpg-wks-client:arm64 (2.2.27-3ubuntu2.1, automatic), gpgconf:arm64 (2.2.27-3ubuntu2.1, automatic), libpsl5:arm64 (0.21.0-1.2build2, automatic)
+End-Date: 2024-07-02  15:52:02
+
+Start-Date: 2024-07-02  15:52:05
+Commandline: apt-get purge -y --auto-remove -o APT::AutoRemove::RecommendsImportant=false
+Purge: readline-common:arm64 (8.1.2-1), gpg:arm64 (2.2.27-3ubuntu2.1), libsasl2-2:arm64 (2.1.27+dfsg2-3ubuntu1.2), gnupg:arm64 (2.2.27-3ubuntu2.1), libsasl2-modules-db:arm64 (2.1.27+dfsg2-3ubuntu1.2), gpg-wks-server:arm64 (2.2.27-3ubuntu2.1), libldap-2.5-0:arm64 (2.5.17+dfsg-0ubuntu0.22.04.1), gpg-agent:arm64 (2.2.27-3ubuntu2.1), wget:arm64 (1.21.2-2ubuntu1.1), libreadline8:arm64 (8.1.2-1), libassuan0:arm64 (2.5.5-1build1), libnpth0:arm64 (1.6-3build2), libsqlite3-0:arm64 (3.37.2-2ubuntu0.3), pinentry-curses:arm64 (1.1.1-1build2), gpgsm:arm64 (2.2.27-3ubuntu2.1), dirmngr:arm64 (2.2.27-3ubuntu2.1), libksba8:arm64 (1.6.0-2ubuntu0.2), gnupg-utils:arm64 (2.2.27-3ubuntu2.1), gnupg-l10n:arm64 (2.2.27-3ubuntu2.1), gpg-wks-client:arm64 (2.2.27-3ubuntu2.1), gpgconf:arm64 (2.2.27-3ubuntu2.1), libpsl5:arm64 (0.21.0-1.2build2)
+End-Date: 2024-07-02  15:52:06
+
+Start-Date: 2024-07-02  15:52:12
+Commandline: apt-get install -y mongodb-org=7.0.12 mongodb-org-server=7.0.12 mongodb-org-shell=7.0.12 mongodb-org-mongos=7.0.12 mongodb-org-tools=7.0.12 mongodb-org-database=7.0.12 mongodb-org-database-tools-extra=7.0.12
+Install: libcurl4:arm64 (7.81.0-1ubuntu1.16, automatic), libnghttp2-14:arm64 (1.43.0-1ubuntu0.2, automatic), libssh-4:arm64 (0.9.6-2ubuntu0.22.04.3, automatic), mongodb-mongosh:arm64 (2.2.10, automatic), tzdata:arm64 (2024a-0ubuntu0.22.04, automatic), libldap-common:arm64 (2.5.17+dfsg-0ubuntu0.22.04.1, automatic), mongodb-org-database-tools-extra:arm64 (7.0.12), libsasl2-modules:arm64 (2.1.27+dfsg2-3ubuntu1.2, automatic), libsasl2-2:arm64 (2.1.27+dfsg2-3ubuntu1.2, automatic), mongodb-org-shell:arm64 (7.0.12), librtmp1:arm64 (2.4+20151223.gitfa8646d.1-2build4, automatic), mongodb-org-database:arm64 (7.0.12), libsasl2-modules-db:arm64 (2.1.27+dfsg2-3ubuntu1.2, automatic), libldap-2.5-0:arm64 (2.5.17+dfsg-0ubuntu0.22.04.1, automatic), publicsuffix:arm64 (20211207.1025-1, automatic), mongodb-org-server:arm64 (7.0.12), mongodb-org:arm64 (7.0.12), mongodb-org-tools:arm64 (7.0.12), mongodb-database-tools:arm64 (100.9.5, automatic), libbrotli1:arm64 (1.0.9-2build6, automatic), mongodb-org-mongos:arm64 (7.0.12), libpsl5:arm64 (0.21.0-1.2build2, automatic)
+End-Date: 2024-07-02  15:52:19

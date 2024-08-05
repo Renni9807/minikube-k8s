@@ -1,0 +1,10 @@
+349ec5ba163025a6832343e4ce016916  lib/systemd/system/mongod.service
+756da70a3f002ae5234d7b1570b3b4b4  usr/bin/mongod
+7927a705ee7ca5e3f302109aca996fda  usr/share/doc/mongodb-org-server/LICENSE-Community.txt.gz
+08ef5d531bfef81275f9a8c743d85340  usr/share/doc/mongodb-org-server/MPL-2.gz
+c7806b8e34aae106691d4571bf692004  usr/share/doc/mongodb-org-server/README
+7577ed3742aab51782cf5adc078ea4f1  usr/share/doc/mongodb-org-server/THIRD-PARTY-NOTICES.gz
+c11c3502811efa81c152d57d6399a48a  usr/share/doc/mongodb-org-server/changelog.gz
+440e8ada9d92d93ef6d301c888cb9e05  usr/share/doc/mongodb-org-server/copyright
+f08c3039af34771ddd0976cc2b774ee3  usr/share/lintian/overrides/mongodb-org-server
+85edf06c0e6b3d4661695f47fcbd4c39  usr/share/man/man1/mongod.1.gz

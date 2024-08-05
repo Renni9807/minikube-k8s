@@ -1,0 +1,12 @@
+03279631a59b5cde695f8d569a258fcc  usr/bin/memhog
+96af285c94139bea4575c28624953fb4  usr/bin/migratepages
+429e523a70e7d16cd35b9587d231f3eb  usr/bin/migspeed
+2b4578e3a4525890c6781f4eef805f9a  usr/bin/numactl
+2546c989293349fc6399eb39979a4918  usr/bin/numastat
+68d49941a460ce28e349e9892953b333  usr/share/doc/numactl/README.Debian
+1fe113e4a892a0ae09bc7274eb4c5740  usr/share/doc/numactl/copyright
+1faa5a02219322f73af2c52eedb3e595  usr/share/man/man8/memhog.8.gz
+7451d0cdd59b8e8aff03be149a599702  usr/share/man/man8/migratepages.8.gz
+aecb12499bbe9aaa115c31c7570bbe22  usr/share/man/man8/migspeed.8.gz
+fd473b20daa48d79e0df431ce942255b  usr/share/man/man8/numactl.8.gz
+4256edf891e2cf64b22432bfcc8d58e4  usr/share/man/man8/numastat.8.gz

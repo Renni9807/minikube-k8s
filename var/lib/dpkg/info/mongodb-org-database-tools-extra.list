@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/bin
+/usr/bin/install_compass
+/usr/share
+/usr/share/doc
+/usr/share/doc/mongodb-org-database-tools-extra
+/usr/share/doc/mongodb-org-database-tools-extra/changelog.gz
+/usr/share/doc/mongodb-org-database-tools-extra/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/mongodb-org-database-tools-extra

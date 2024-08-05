@@ -1,0 +1,12 @@
+0cb5c899d11269646e63b8f608517c17 mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/bin/bsondump
+ae8e289216a94c4ac983b2f1bb211f80 mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/bin/mongodump
+ee3d541c6b6a6ecb4932ef12cd23ebbc mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/bin/mongoexport
+7a45a2ec0ebdf9394398e03beea1f3af mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/bin/mongofiles
+9cc920e104e07e59984e4cc18cfc30f4 mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/bin/mongoimport
+d1a12dbc0dd7329355e6d70770200a51 mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/bin/mongorestore
+f7899a69c3d13ec7d3fe268c4cdc6f8d mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/bin/mongostat
+581c2c8a7dec11b5b6b0c1c102ac4032 mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/bin/mongotop
+d2f8ca674cf480d2bd8efd4edede00f7 mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/share/doc/mongodb-database-tools/LICENSE.md
+1bcc88879bd684d9ae4afc562ddbb760 mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/share/doc/mongodb-database-tools/README.md
+486379e9fd44b1559c3775106e996a3b mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/share/doc/mongodb-database-tools/THIRD-PARTY-NOTICES
+fb36757cbbeae5179e147053e495c542 mongodb-database-tools-ubuntu2204-arm64-100.9.5/usr/share/doc/mongodb-database-tools/mongodb-database-tools-ubuntu2204-arm64-100.9.5.deb.cdx.json

@@ -1,0 +1,279 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Contact: Compass Team <compass@mongodb.com>
+Source: https://github.com/mongodb-js/mongosh
+
+Files: /usr/bin/mongosh
+Copyright: 2024 MongoDB, Inc.
+License: Apache-2
+
+Files: /usr/lib/mongosh_crypt_v1.so
+Copyright: 2024 MongoDB, Inc.
+License: Proprietary
+
+License: Apache-2
+ 
+                                  Apache License
+                            Version 2.0, January 2004
+                         http://www.apache.org/licenses/
+ 
+    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+ 
+    1. Definitions.
+ 
+       "License" shall mean the terms and conditions for use, reproduction,
+       and distribution as defined by Sections 1 through 9 of this document.
+ 
+       "Licensor" shall mean the copyright owner or entity authorized by
+       the copyright owner that is granting the License.
+ 
+       "Legal Entity" shall mean the union of the acting entity and all
+       other entities that control, are controlled by, or are under common
+       control with that entity. For the purposes of this definition,
+       "control" means (i) the power, direct or indirect, to cause the
+       direction or management of such entity, whether by contract or
+       otherwise, or (ii) ownership of fifty percent (50%) or more of the
+       outstanding shares, or (iii) beneficial ownership of such entity.
+ 
+       "You" (or "Your") shall mean an individual or Legal Entity
+       exercising permissions granted by this License.
+ 
+       "Source" form shall mean the preferred form for making modifications,
+       including but not limited to software source code, documentation
+       source, and configuration files.
+ 
+       "Object" form shall mean any form resulting from mechanical
+       transformation or translation of a Source form, including but
+       not limited to compiled object code, generated documentation,
+       and conversions to other media types.
+ 
+       "Work" shall mean the work of authorship, whether in Source or
+       Object form, made available under the License, as indicated by a
+       copyright notice that is included in or attached to the work
+       (an example is provided in the Appendix below).
+ 
+       "Derivative Works" shall mean any work, whether in Source or Object
+       form, that is based on (or derived from) the Work and for which the
+       editorial revisions, annotations, elaborations, or other modifications
+       represent, as a whole, an original work of authorship. For the purposes
+       of this License, Derivative Works shall not include works that remain
+       separable from, or merely link (or bind by name) to the interfaces of,
+       the Work and Derivative Works thereof.
+ 
+       "Contribution" shall mean any work of authorship, including
+       the original version of the Work and any modifications or additions
+       to that Work or Derivative Works thereof, that is intentionally
+       submitted to Licensor for inclusion in the Work by the copyright owner
+       or by an individual or Legal Entity authorized to submit on behalf of
+       the copyright owner. For the purposes of this definition, "submitted"
+       means any form of electronic, verbal, or written communication sent
+       to the Licensor or its representatives, including but not limited to
+       communication on electronic mailing lists, source code control systems,
+       and issue tracking systems that are managed by, or on behalf of, the
+       Licensor for the purpose of discussing and improving the Work, but
+       excluding communication that is conspicuously marked or otherwise
+       designated in writing by the copyright owner as "Not a Contribution."
+ 
+       "Contributor" shall mean Licensor and any individual or Legal Entity
+       on behalf of whom a Contribution has been received by Licensor and
+       subsequently incorporated within the Work.
+ 
+    2. Grant of Copyright License. Subject to the terms and conditions of
+       this License, each Contributor hereby grants to You a perpetual,
+       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+       copyright license to reproduce, prepare Derivative Works of,
+       publicly display, publicly perform, sublicense, and distribute the
+       Work and such Derivative Works in Source or Object form.
+ 
+    3. Grant of Patent License. Subject to the terms and conditions of
+       this License, each Contributor hereby grants to You a perpetual,
+       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+       (except as stated in this section) patent license to make, have made,
+       use, offer to sell, sell, import, and otherwise transfer the Work,
+       where such license applies only to those patent claims licensable
+       by such Contributor that are necessarily infringed by their
+       Contribution(s) alone or by combination of their Contribution(s)
+       with the Work to which such Contribution(s) was submitted. If You
+       institute patent litigation against any entity (including a
+       cross-claim or counterclaim in a lawsuit) alleging that the Work
+       or a Contribution incorporated within the Work constitutes direct
+       or contributory patent infringement, then any patent licenses
+       granted to You under this License for that Work shall terminate
+       as of the date such litigation is filed.
+ 
+    4. Redistribution. You may reproduce and distribute copies of the
+       Work or Derivative Works thereof in any medium, with or without
+       modifications, and in Source or Object form, provided that You
+       meet the following conditions:
+ 
+       (a) You must give any other recipients of the Work or
+           Derivative Works a copy of this License; and
+ 
+       (b) You must cause any modified files to carry prominent notices
+           stating that You changed the files; and
+ 
+       (c) You must retain, in the Source form of any Derivative Works
+           that You distribute, all copyright, patent, trademark, and
+           attribution notices from the Source form of the Work,
+           excluding those notices that do not pertain to any part of
+           the Derivative Works; and
+ 
+       (d) If the Work includes a "NOTICE" text file as part of its
+           distribution, then any Derivative Works that You distribute must
+           include a readable copy of the attribution notices contained
+           within such NOTICE file, excluding those notices that do not
+           pertain to any part of the Derivative Works, in at least one
+           of the following places: within a NOTICE text file distributed
+           as part of the Derivative Works; within the Source form or
+           documentation, if provided along with the Derivative Works; or,
+           within a display generated by the Derivative Works, if and
+           wherever such third-party notices normally appear. The contents
+           of the NOTICE file are for informational purposes only and
+           do not modify the License. You may add Your own attribution
+           notices within Derivative Works that You distribute, alongside
+           or as an addendum to the NOTICE text from the Work, provided
+           that such additional attribution notices cannot be construed
+           as modifying the License.
+ 
+       You may add Your own copyright statement to Your modifications and
+       may provide additional or different license terms and conditions
+       for use, reproduction, or distribution of Your modifications, or
+       for any such Derivative Works as a whole, provided Your use,
+       reproduction, and distribution of the Work otherwise complies with
+       the conditions stated in this License.
+ 
+    5. Submission of Contributions. Unless You explicitly state otherwise,
+       any Contribution intentionally submitted for inclusion in the Work
+       by You to the Licensor shall be under the terms and conditions of
+       this License, without any additional terms or conditions.
+       Notwithstanding the above, nothing herein shall supersede or modify
+       the terms of any separate license agreement you may have executed
+       with Licensor regarding such Contributions.
+ 
+    6. Trademarks. This License does not grant permission to use the trade
+       names, trademarks, service marks, or product names of the Licensor,
+       except as required for reasonable and customary use in describing the
+       origin of the Work and reproducing the content of the NOTICE file.
+ 
+    7. Disclaimer of Warranty. Unless required by applicable law or
+       agreed to in writing, Licensor provides the Work (and each
+       Contributor provides its Contributions) on an "AS IS" BASIS,
+       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+       implied, including, without limitation, any warranties or conditions
+       of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+       PARTICULAR PURPOSE. You are solely responsible for determining the
+       appropriateness of using or redistributing the Work and assume any
+       risks associated with Your exercise of permissions under this License.
+ 
+    8. Limitation of Liability. In no event and under no legal theory,
+       whether in tort (including negligence), contract, or otherwise,
+       unless required by applicable law (such as deliberate and grossly
+       negligent acts) or agreed to in writing, shall any Contributor be
+       liable to You for damages, including any direct, indirect, special,
+       incidental, or consequential damages of any character arising as a
+       result of this License or out of the use or inability to use the
+       Work (including but not limited to damages for loss of goodwill,
+       work stoppage, computer failure or malfunction, or any and all
+       other commercial damages or losses), even if such Contributor
+       has been advised of the possibility of such damages.
+ 
+    9. Accepting Warranty or Additional Liability. While redistributing
+       the Work or Derivative Works thereof, You may choose to offer,
+       and charge a fee for, acceptance of support, warranty, indemnity,
+       or other liability obligations and/or rights consistent with this
+       License. However, in accepting such obligations, You may act only
+       on Your own behalf and on Your sole responsibility, not on behalf
+       of any other Contributor, and only if You agree to indemnify,
+       defend, and hold each Contributor harmless for any liability
+       incurred by, or claims asserted against, such Contributor by reason
+       of your accepting any such warranty or additional liability.
+ 
+    END OF TERMS AND CONDITIONS
+ 
+    Copyright 2020 MongoDB Inc.
+ 
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+ 
+        http://www.apache.org/licenses/LICENSE-2.0
+ 
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ 
+ 
+License: Proprietary
+ Customer Agreement
+ 
+ By agreeing to an Order Form that references this Customer Agreement (this “Agreement”), or by downloading our Software for a free trial, you agree to this Agreement. If you represent an organization, you represent and warrant that you have the authority to agree to this Agreement on behalf of your organization.
+ 1. Definitions. The following terms have the following meanings:
+ 
+ “Affiliate” means an organization that controls, is controlled by, or is under common control with, a party, where “control” means direct or indirect ownership of more than 50% of the voting interests of the organization.
+ 
+ “Confidential Information” means information a party designates as confidential or reasonably considers as confidential, and includes pricing information on an Order Form. “Confidential Information” excludes information that is (a) or becomes publicly available through no fault of the recipient, (b) received from a third party without a duty of confidentiality, (c) independently developed by the receiving party without breaching this Agreement, or (d) rightfully known or lawfully in the possession of the receiving party prior to disclosure from the other party.
+ 
+ “Consulting Services” means the consulting or professional services included in your Subscription.
+ 
+ “Customer”, “you” and “your” means the organization that agrees to an Order Form or downloads the Software for a free trial.
+ 
+ “Deliverable” means a work provided to you as a part of the Consulting Services, including any report.
+ 
+ “Documentation” means the instructions, specifications and information regarding the Software available at https://docs.mongodb.com/.
+                        
+ “Order Form” means an ordering document for Subscriptions signed by both parties that refers to this Agreement.
+ 
+ “Server” means a virtual machine or container that stores data up to the amount of RAM specified on an applicable Order Form. 
+ 
+ “Software” means the MongoDB Enterprise database software, MongoDB Ops Manager, MongoDB Charts, MongoDB Connector for Business Intelligence, and any other software included with a Subscription, including any generally available updates to such software, but excluding (a) beta offerings and (b) open source software components, each of which has its copyright notice and license included in the license file and Documentation.
+ 
+ “Subscription” means a subscription for our Software, Support, or Consulting Services set forth in an Order Form.
+ 
+ “Support” means support, if any, included in a Subscription.
+ 
+ 2. Subscriptions.
+ 
+ (a) Generally. We will provide you with the Software, Support and Consulting Services included in the Subscription. We will provide you with Support in accordance with the applicable support policy available on our website, currently available at https://www.mongodb.com/support-policy. While we may modify our support policy from time to time, we will not modify it in a way that materially and adversely affects your Support. Your Affiliates may purchase Subscriptions directly from us or our Affiliates by signing an Order Form and you may allow an Affiliate to use your Subscriptions as long as you are responsible for the Affiliate’s compliance with this Agreement.
+ 
+ (b) Free Evaluation and Development. MongoDB grants you a royalty-free, nontransferable and nonexclusive license to use and reproduce the Software in your internal environment for evaluation and development purposes. You will not use the Software for any other purpose, including testing, quality assurance or production purposes without purchasing an Enterprise Advanced Subscription. We provide the free evaluation and development license of our Software on an “AS-IS” basis without any warranty.
+ 
+ (c) Enterprise Advanced Subscription. MongoDB grants you a nontransferable and nonexclusive license during the term of the Subscription to use and reproduce the Software in your internal environment for the purposes and on the number of Servers stated on the Order Form. You will cover each Server used by an application with an Enterprise Advanced Subscription.
+ 
+ 3. Consulting Services. You will provide MongoDB with reasonable assistance and information to facilitate scheduling and performance of Consulting Services. You will also appoint an engagement manager to help ensure effective delivery of the Consulting Services. Consulting Services and any Deliverables are accepted when delivered unless otherwise set forth in an Order Form. We may engage qualified subcontractors to provide the Consulting Services, and we are responsible for any subcontractor’s compliance with this Agreement. We grant you a royalty-free, perpetual, nontransferable and nonexclusive license to use and reproduce any Deliverables for your internal business purposes.
+ 
+ 4. Your Responsibilities. As a condition to your use of the Software, you will not, and will not allow any third party to: (a) decompile, disassemble, translate, reverse engineer or attempt to derive source code from any portion of the Software; (b) sell, sublicense, rent, lease, distribute, market, or commercialize the Software, your Subscription or any Deliverables, provided that you may use the Software in connection with an application available to your end customers as long as they cannot access the Software directly; (c) directly or indirectly circumvent or violate the technical restrictions of the Software; (d) remove any identification, proprietary, copyright or other notices in the Software, Documentation or Deliverables; (e) modify or create a derivative work of any portion of the Software; (f) publicly disseminate performance information about, or analysis of, the Software, including benchmarking test results, or your Subscription; (g) use the Software on more Servers than licensed on an Order Form; (h) use Support or Ops Manager, Cloud Manager, MongoDB Charts, or MongoDB Connector for Business Intelligence in connection with any application that is not covered by an Enterprise Advanced Subscription; or (i) access or use the Software in a way intended to avoid incurring fees or exceeding usage limits or quotas. You will comply with applicable laws in connection with your use of Software, Deliverables, Consulting Services and your Subscriptions, including any applicable U.S. export regulations and anti-corruption laws.
+ 
+ 5. Payment and Taxes. You will pay undisputed fees and reimburse any business expenses as set forth on and in accordance with an Order Form. Your payment for Subscriptions is non-refundable and you may not terminate or cancel an Order Form except as stated in this Agreement. Our fees exclude and you will pay applicable taxes and similar charges, including sales, usage, excise and value added taxes. Nothing in this Agreement requires either party to pay any income taxes or similar charges of the other party. If applicable law requires you to withhold any amount from your payment, you will provide us with copies of documents related to your withholding upon our request.
+ 
+ 6. Confidentiality. This Agreement supersedes any applicable non-disclosure agreement between the parties with respect to your Subscriptions. The receiving party will use the disclosing party’s Confidential Information only in connection with this Agreement and protect the disclosing party’s Confidential Information by using the same degree of care used to protect its own confidential information, but not less than a reasonable degree of care. The receiving party will limit disclosure of the disclosing party’s Confidential Information to its and its Affiliates’ directors, officers, employees and contractors bound to confidentiality obligations at least as protective as the confidentiality provisions in this Agreement and who have a need to know the Confidential Information. The receiving party will not disclose the disclosing party’s Confidential Information to any other third party without the disclosing party's consent, except where required to comply with applicable law or a compulsory legal order or process, provided that the receiving party will, if legally permitted, promptly notify the disclosing party. Each party will return or destroy the other party’s Confidential Information upon written request from the other party.  
+ 
+ 7. Intellectual Property. This Agreement does not transfer any right, title or interest in any intellectual property to any party, except as expressly set forth in this Agreement. You are not obligated to provide us with any suggestions or other feedback, but if you do, we may use and modify this feedback without any restriction or payment.
+ 
+ 8. Warranties. MongoDB represents and warrants that: (a) the Software will perform substantially in accordance with the Documentation; and (b) it will perform Consulting Services and Support in a diligent and workmanlike manner consistent with industry standards. Your exclusive remedy for MongoDB’s material breach of warranty is to terminate any affected Subscription in accordance with Section 11 and receive a refund of any prepaid fees for unused Subscriptions. Except as set forth in this Section, we provide the Software, Consulting Services and Support on an “AS-IS” basis. To the fullest extent not prohibited by law, MongoDB disclaims and this Agreement excludes any implied or statutory warranty, including any warranty of title, non-infringement, merchantability or fitness for a particular purpose.
+ 
+ 9. Limitation of Liability.
+ 
+ (a) Neither party will be liable to the other for any incidental or consequential damages, including lost profits or business opportunities, or any special or punitive damages.
+ 
+ (b) Except as set forth in Section 9(c) and 9(d), each party’s cumulative liability will not exceed the total fees payable to MongoDB by Customer under this Agreement during the 12-month period before the event giving rise to the liability.
+ 
+ (c) Each party’s cumulative liability under Section 10 will not exceed $3,000,000.
+ 
+ (d) Nothing in this Agreement limits either party’s liability for: (i) fraud or fraudulent misrepresentation; (ii) death or personal injury caused by negligence, gross negligence or intentional misconduct; (iii) Customer’s payment obligations; or (iv) any liability which cannot legally be limited.
+ 
+ 10. Indemnification.
+ 
+ (a) Customer Indemnification. If a third party asserts a claim against MongoDB alleging that software, content or data used by Customer in connection with the Software or any Subscription, or provided to MongoDB in order for MongoDB to perform Consulting Services, infringes a third party’s intellectual property right (a “Claim Against Us”), Customer will defend MongoDB against the Claim Against Us at Customer’s expense, and indemnify MongoDB from any damages, reasonable legal fees and costs finally awarded against MongoDB to the extent resulting from the Claim Against Us or for amounts paid by MongoDB to settle the Claim Against Us. Customer will have no obligation to defend or indemnify MongoDB if the Claim Against Us is based on MongoDB’s unauthorized changes to Customer’s software, content, data or other information.
+ 
+ (b) MongoDB Indemnification. If a third party asserts a claim against Customer that the Software infringes a third party’s intellectual property right or any Deliverable infringes a third party’s copyright (a “Claim Against You”), MongoDB will defend Customer against the Claim Against You at MongoDB’s expense and indemnify Customer from any damages, reasonable legal fees and costs finally awarded against Customer to the extent resulting from the Claim Against You or for amounts paid by Customer to settle the Claim Against You. MongoDB will not be obligated to defend or indemnify Customer if the Claim Against You is based on: (i) combination of the Software with other software, content, data or business process not contemplated by Documentation; (ii) use of any older release of the Software when use of a newer version would have avoided the alleged or actual infringement; (iii) any modification of the Software made by anyone other than MongoDB; or (iv) MongoDB's compliance with any materials, designs, specifications or instructions provided by Customer.
+ 
+ (c) Infringement Remedies. In addition to MongoDB’s indemnity obligations, if the Software or any Deliverable becomes, or in MongoDB’s opinion is likely to become, the subject of an infringement claim, MongoDB may at its option and expense and as Customer’s sole and exclusive remedy: (i) procure for Customer the right to make continued use of the Software or Deliverable; (ii) replace or modify the Software or Deliverable so that it becomes non-infringing; or (iii) terminate Customer’s license to the Software or Deliverable and refund any prepaid fees for unused Subscriptions.
+ 
+ (d) Indemnification Procedures. Each party will provide the other with prompt notice of any claim. A party’s failure to provide prompt notice to the other party relieves the party of its obligation to defend and indemnify the other party only to the extent that the failure to provide notice materially harms the party’s ability to defend the claim. The indemnifying party will have sole control of the defense of the claim, including any settlement. The indemnified party will provide the indemnifying party with reasonable cooperation in connection with the defense of the claim, and may participate in the defense at its own expense. This Section 10 sets forth each party’s exclusive remedy for any third party infringement claim.
+ 
+ 11. Term and Termination. The term of this Agreement commences when you agree to an Order Form, or you download our Software for a free trial, and will remain in effect until terminated in accordance with this Agreement. Either party may terminate this Agreement for convenience immediately upon notice if all Order Forms under this Agreement have expired or been terminated. Neither party may terminate an Order Form for convenience. If a party fails to cure a material breach of this Agreement within 30 days after receipt of written notice of the breach, the other party may terminate this Agreement and any affected Order Form. Upon termination of an Order Form or this Agreement, you will remove the Software from all Servers covered by the terminated Subscriptions. Provisions intended by their nature to survive termination of this Agreement survive termination. During the term of this Agreement and one year following termination, we may inspect your records relating to your use of the Software or Consulting Services for the purposes of verifying compliance with this Agreement.
+ 
+ 12. General. Notices under this Agreement will be in writing and effective on the delivery date. The parties will deliver notices by (a) email, in the case of MongoDB to legal@mongodb.com and, in the case of Customer, to the email address set forth on your most recent Order Form and (b) personal delivery or courier to the address of the other party set forth on Customer’s most recent Order Form. If you are located in North, Central or South America, New York law governs this Agreement, excluding any applicable conflict of laws rules or principles, and the parties agree to the exclusive jurisdiction of the courts in New York, New York. For customers located elsewhere, the law of England and Wales governs this Agreement, excluding any applicable conflict of laws rules or principles, and the parties agree to the exclusive jurisdiction of the courts in London, England. This Agreement does not create a partnership, agency relationship, or joint venture between the parties. The United Nations Convention for the International Sale of Goods does not apply to this Agreement. Unless you tell us otherwise in writing, we may refer to our relationship with you as a customer. Any assignment of this Agreement by you without our prior written consent will be null and void, except an assignment to an Affiliate or in connection with a merger or sale of all or substantially all of your assets or stock, provided that you may not assign this Agreement to a competitor of ours without our prior written consent. If any provision of this Agreement is unenforceable, that provision will be modified to render it enforceable to the extent possible to effect the parties’ intention and the remaining provisions will not be affected. The parties may amend this Agreement only by a written amendment signed by both parties. This Agreement incorporates any addenda or exhibits, and any Order Form, and comprises the parties’ entire agreement relating to the subject matter of this Agreement. Neither party has entered into this Agreement in reliance on any representations or warranties other than those expressly set forth in this Agreement or in an applicable Order Form. If any conflict exists between the provisions in this Agreement and any Order Form, the Order Form controls, and if any conflict exists between this Agreement and any addenda, exhibit or other agreement, this Agreement controls. A purchase order is for convenience only and any terms that govern the purchase order are of no effect. Customer’s purchase of any Subscription is not contingent on, and Customer has not relied on, the delivery of any future functionality, regardless of any communication about our products. Neither party will be liable for failures or delays in performance due to causes beyond its reasonable control.
+ 
+ 
